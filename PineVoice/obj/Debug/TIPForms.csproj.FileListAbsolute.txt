@@ -1,0 +1,45 @@
+C:\Users\pawli\source\repos\TIPForms\TIPForms\bin\Debug\TIPForms.exe.config
+C:\Users\pawli\source\repos\TIPForms\TIPForms\bin\Debug\TIPForms.exe
+C:\Users\pawli\source\repos\TIPForms\TIPForms\bin\Debug\TIPForms.pdb
+C:\Users\pawli\source\repos\TIPForms\TIPForms\bin\Debug\OzekiSDK.dll
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.Home.resources
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.Login.resources
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.Properties.Resources.resources
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.Register.resources
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.Talk.resources
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.GenerateResource.cache
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.CoreCompileInputs.cache
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.CopyComplete
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.exe
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.pdb
+C:\Users\pawli\source\repos\TIPForms\TIPForms\obj\Debug\TIPForms.csprojAssemblyReference.cache
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\bin\Debug\TIPForms.exe.config
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\bin\Debug\TIPForms.exe
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\bin\Debug\TIPForms.pdb
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.csprojAssemblyReference.cache
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.Home.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.Login.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.Properties.Resources.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.Register.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.Talk.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.GenerateResource.cache
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.CoreCompileInputs.cache
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.CopyComplete
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.exe
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Debug\TIPForms.pdb
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\bin\Debug\TIPForms.exe.config
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\bin\Debug\TIPForms.exe
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\bin\Debug\TIPForms.pdb
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\bin\Debug\OzekiSDK.dll
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.csprojAssemblyReference.cache
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.Home.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.Login.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.Properties.Resources.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.Register.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.Settings.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.Talk.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.GenerateResource.cache
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.CoreCompileInputs.cache
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.csproj.CopyComplete
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.exe
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\TIPForms.pdb

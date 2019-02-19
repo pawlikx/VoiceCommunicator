@@ -1,0 +1,7 @@
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Release\TIPForms.Home.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Release\TIPForms.Login.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Release\TIPForms.Properties.Resources.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Release\TIPForms.Register.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Release\TIPForms.Talk.resources
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Release\TIPForms.csproj.GenerateResource.cache
+C:\Users\Balhut\Desktop\latest\TIPForms\TIPForms\obj\Release\TIPForms.csproj.CoreCompileInputs.cache

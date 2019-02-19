@@ -1,0 +1,42 @@
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.csprojAssemblyReference.cache
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.Home.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.Login.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.Properties.Resources.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.Register.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.Settings.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.Talk.resources
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.csproj.GenerateResource.cache
+D:\Zrzuty z SSD\Desktop\TIPForms\TIPForms\obj\Debug\PineVoice.csproj.CoreCompileInputs.cache
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csprojAssemblyReference.cache
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Home.resources
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Login.resources
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Properties.Resources.resources
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Register.resources
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Settings.resources
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Talk.resources
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csproj.GenerateResource.cache
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csproj.CoreCompileInputs.cache
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\bin\Debug\PineVoice.exe.config
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\bin\Debug\PineVoice.exe
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\bin\Debug\PineVoice.pdb
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\bin\Debug\OzekiSDK.dll
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csproj.CopyComplete
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.exe
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.pdb
+D:\Zrzuty z SSD\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.ForgotPass.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csprojAssemblyReference.cache
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.ForgotPass.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Home.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Login.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Properties.Resources.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Register.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Settings.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.Talk.resources
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csproj.GenerateResource.cache
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csproj.CoreCompileInputs.cache
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.exe
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.pdb
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\bin\Debug\PineVoice.exe.config
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\bin\Debug\PineVoice.exe
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\bin\Debug\PineVoice.pdb
+C:\Users\Balhut\Desktop\PineVoice\PineVoice\obj\Debug\PineVoice.csproj.CopyComplete
